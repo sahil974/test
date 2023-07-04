@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          lets change something and see whether its visible or not.
+          hey this is my second change to the website
         </p>
         <a
           className="App-link"
@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+
